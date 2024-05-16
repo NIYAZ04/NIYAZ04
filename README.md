@@ -10,7 +10,7 @@ A Passionate App Developer</div>
 - 🌱 I’m currently Improving my Skills   
   
 
-- ❓ Ask me anything related to : Android Development , DSA  
+- ❓ Ask me anything related to : Full Stack Development, DSA, Competitive programming 
   
 
 - ⚡I believe in continuous acquiring of knowledge  
